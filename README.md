@@ -18,7 +18,7 @@ Projenize bu sınıfı eklemek için aşağıdaki adımları izleyebilirsiniz:
     {
         static void Main()
         {
-            string tarih =Tarih.Tarih_TR();
+            string tarih =Tarih.tarihTR();
             Console.WriteLine(tarih);
         }
     }
@@ -30,7 +30,7 @@ Projenize bu sınıfı eklemek için aşağıdaki adımları izleyebilirsiniz:
    ```
 ## Metodlar
 
-### `Tarih_TR()`
+### `tarihTR()`
 
 Bu metod, Türkçe tarih ve saat bilgilerini belirli bir formatta formatlar ve bir string olarak döndürür.
 
