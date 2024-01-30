@@ -5,7 +5,7 @@ public class Tarih
 {
     public static string TarihTR()
     {
-        string _GunuVer_TR = 
+        string gunuVer_TR = 
             CultureInfo.
             GetCultureInfo("tr-TR").
             DateTimeFormat.DayNames
@@ -15,7 +15,7 @@ public class Tarih
                     DayOfWeek
             ];
 
-        string _AyıVerTR = 
+        string ayiVerTR = 
             CultureInfo.GetCultureInfo("tr-TR").
             DateTimeFormat.
             MonthNames
@@ -25,15 +25,15 @@ public class Tarih
                 Month-1
             ];
 
-        string dateTime2 = 
+        string dateTimeTR = 
             DateTime.Now.ToString("dd ") + 
-            _AyıVerTR + 
+            ayiVerTR + 
             DateTime.Now.ToString(" yyyy") + 
             " " + 
-            _GunuVer_TR + 
+            gunuVer_TR + 
             "\n" + 
             DateTime.Now.ToString("HH:mm");
 
-        return dateTime2;
+        return dateTimeTR;
     }
 }
