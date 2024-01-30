@@ -5,7 +5,7 @@ public class Tarih
 {
     public static string TarihTR()
     {
-        string gunuVer_TR = 
+        string gunuVerTR = 
             CultureInfo.
             GetCultureInfo("tr-TR").
             DateTimeFormat.DayNames
@@ -30,7 +30,7 @@ public class Tarih
             ayiVerTR + 
             DateTime.Now.ToString(" yyyy") + 
             " " + 
-            gunuVer_TR + 
+            gunuVerTR + 
             "\n" + 
             DateTime.Now.ToString("HH:mm");
 
