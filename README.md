@@ -32,5 +32,5 @@ Bu metod, Türkçe tarih ve saat bilgilerini belirli bir formatta formatlar ve b
 
 
 
-#Katkıda Bulunma
-##Eğer bu projeye katkıda bulunmak istiyorsanız, lütfen forklayın ve pull request gönderin. Her türlü katkı ve geri bildirimleriniz memnuniyetle karşılanacaktır.
+# Katkıda Bulunma
+## Eğer bu projeye katkıda bulunmak istiyorsanız, lütfen forklayın ve pull request gönderin. Her türlü katkı ve geri bildirimleriniz memnuniyetle karşılanacaktır.
