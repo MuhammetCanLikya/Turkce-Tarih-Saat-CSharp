@@ -1,1 +1,1 @@
-# TurkceTarihSaatCSharp
+# C# Türkce Tarih Saat Metodu
