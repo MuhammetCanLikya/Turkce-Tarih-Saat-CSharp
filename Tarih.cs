@@ -3,7 +3,7 @@ using System.Globalization;
 
 public class Tarih
 {
-    public static string TarihTR()
+    public static string tarihTR()
     {
         string gunuVerTR = 
             CultureInfo.
