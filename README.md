@@ -23,7 +23,7 @@ Projenize bu sınıfı eklemek için aşağıdaki adımları izleyebilirsiniz:
         }
     }
     ```
-3. Program çıktısı aşağıdaki gibi olacaktır
+3. Program çıktısı aşağıdaki formatta olacaktır
    ```
    31 Ocak 2024 Çarşamba
    02:16
